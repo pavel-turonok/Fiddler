@@ -1,7 +1,6 @@
  <div>
  <img src="https://nicj.net/talks-files/forensic-tools-for-in-depth-performance-investigations/presentation/images/logo-fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp;
  </div>
- ___
  
  ### Homework
  ___
